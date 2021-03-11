@@ -1,4 +1,3 @@
-# naturalis-java-development-standards
-Documents related to standards, conventions and requirements of Java development at Naturalis
+**NOTE** This repository has moved to [Gitlab](https://gitlab.com/naturalis/sd/naturalis-java-projects)!
 
-This repo contains documents, configuration files, templates that promote uniformity of Java code within the Natualis Software Development department.
+The content you see here, is outdated!
